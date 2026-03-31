@@ -1,0 +1,15 @@
+{
+  "description": "Config for MeeTimeTest",
+  "environment": [
+    {
+      "type": "device",
+      "label": "phone"
+    }
+  ],
+  "driver": {
+    "type": "DeviceTest",
+    "py_file": [
+      "File/FileSystemManager14/FileSystemManager14.py"
+    ]
+  }
+}
