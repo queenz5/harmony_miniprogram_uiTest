@@ -1,0 +1,17 @@
+# MacOS .DS_Store
+**/.DS_Store
+*.pyc
+.idea/misc.xml
+
+
+# report or log
+reports/
+tmp_hypium/
+
+# node modules
+node_modules/
+.idea/
+testcases/copy_buffer.py
+
+
+
